@@ -36,5 +36,5 @@ LangChain makes building AI applications **easy and fun**. This repo shows you p
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/langchain-agentic-ai-practical-chat-models-intro.git
+git clone https://github.com/Nayann23/LANGCHAIN-AGENTIC-AI-PRACTICAL-CHAT-MODELS-INTRO.git
 cd langchain-agentic-ai-practical-chat-models-intro
